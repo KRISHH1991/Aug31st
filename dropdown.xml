@@ -1,0 +1,16 @@
+<suite name="Grid Testing">
+<test name="On firefox">
+<parameter name="browser" value="firefox"/>
+<classes> 
+<class name="P_22_09_2015.DropdownOnGrid"/>
+</classes>
+</test>
+
+
+<test name="On Chrome">
+<parameter name="browser" value="chrome"/>
+<classes>
+<class name="P_22_09_2015.DropdownOnGrid"/>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,5 @@
+2015-10-16 11:33:19,717 INFO  [Loginusinglog4j] Browser Launched 
+2015-10-16 11:33:19,753 INFO  [Loginusinglog4j] Opened yahoo 
+2015-10-16 11:33:28,161 INFO  [Loginusinglog4j] Entered USername 
+2015-10-16 11:33:29,042 INFO  [Loginusinglog4j] entered password 
+2015-10-16 11:33:29,690 INFO  [Loginusinglog4j] clicked on login 
